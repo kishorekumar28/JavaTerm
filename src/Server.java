@@ -9,6 +9,7 @@ import java.util.concurrent.TimeUnit;
  *
  * @author User
  */
+//changed
 class matter implements Serializable {
 
     int initial_prize;
